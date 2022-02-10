@@ -17,5 +17,8 @@ body {
 
 .text span {
 color: red;
-text-decoration: none;
+}
+
+.text a{
+    text-decoration: none;
 }
